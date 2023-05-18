@@ -15,6 +15,13 @@ I am interested in understanding the customer behavior regarding the shopping.
  * Select Percentile
  * Generic Univariate Select
 
+#### Wrapper-based selection methods
+ * Recursive Feature Elimination 
+ * Select From Model
+ * Sequential Feature Selector
+
+
+#### Principal Component Analysis
 
 
 ## Model
