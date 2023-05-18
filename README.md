@@ -9,11 +9,11 @@ I am interested in understanding the customer behavior regarding the shopping.
 
 ## Feature selection
 
-#### * Filter Based Methods
-        * Variance Threshold
-        * Select KBest
-        * Select Percentile
-        * Generic Univariate Select
+####  Filter Based Methods
+ * Variance Threshold
+ * Select KBest
+ * Select Percentile
+ * Generic Univariate Select
 
 
 
